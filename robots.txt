@@ -1,2 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: newindex.html
+Disallow: left-sidebar.html
+Disallow: right-sidebar.html
+Disallow: no-sidebar.html
+Disallow: /images
+Disallow: /assets
