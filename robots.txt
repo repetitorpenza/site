@@ -6,3 +6,9 @@ Disallow: right-sidebar.html
 Disallow: no-sidebar.html
 Disallow: /images
 Disallow: /assets
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
